@@ -9,10 +9,11 @@
 
 ### Community Support
 - **GitHub Issues**: https://github.com/range42/<repo>/issues)
+- GitHub [discussions](https://github.com/orgs/range42/discussions)
 
 ## Before You Ask
 
-1. Check the [documentation](https://docs.range42.net) and [FAQ](https://range42.net/faq)
+1. Check the [documentation](https://range42.net/doc) and [FAQ](https://range42.net/faq)
 2. Search [existing issues](https://github.com/orgs/range42/repositories)
 3. Include your Range42 version and environment details
 4. Provide clear steps to reproduce the problem
