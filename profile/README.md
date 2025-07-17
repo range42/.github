@@ -24,7 +24,7 @@ Most repositories are private by design. Select components may be released publi
 ## Contributing
 
 This is a collaborative initiative, developed for applied security training, community integration, and internal capability building.  
-We use centralized community health files in [range42-community-health](https://github.com/Range42/range42-community-health).
+We use centralized community health files in [Range42 community health](https://github.com/range42/.github/community).
 
 ---
 
