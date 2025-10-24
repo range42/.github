@@ -57,6 +57,27 @@ If you want to contribute to the [Range42 core](https://github.com/Range42/core)
 
 For changes to scenarios, assessments, or infrastructure components, see the [Scenario Development CheckList](https://github.com/Range42/core/wiki/Scenario-Development-CheckList).
 
+### Versioning
+
+Range42 follows [Semantic Versioning](https://semver.org/) (SemVer) for all releases. Understanding semantic versioning helps maintain compatibility and communicate changes effectively to our users.
+
+#### Version Format: MAJOR.MINOR.PATCH
+
+- **MAJOR** version (e.g., 2.0.0): Incompatible API changes or significant breaking changes that require user action
+- **MINOR** version (e.g., 1.3.0): New features or functionality added in a backward-compatible manner
+- **PATCH** version (e.g., 1.2.5): Backward-compatible bug fixes, security patches, or minor improvements
+
+#### Examples
+- `1.0.0` → `2.0.0`: Breaking change (e.g., scenario format changes requiring migration)
+- `1.2.0` → `1.3.0`: New feature (e.g., added new assessment engine capability)
+- `1.2.3` → `1.2.4`: Bug fix (e.g., fixed deployment script error)
+
+#### Pre-release and Build Metadata
+- Pre-release versions: `1.0.0-alpha`, `1.0.0-beta.1`, `1.0.0-rc.2`
+- Build metadata: `1.0.0+20240115` (not considered in version precedence)
+
+When contributing, ensure your changes align with the appropriate version increment. Major changes require broader community discussion and migration guides.
+
 ### Recommendations for quick PR merges:
 - Small, incremental changes are preferred over large, complex ones
 - Include tests for new functionality
