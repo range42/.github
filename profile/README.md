@@ -4,7 +4,6 @@
 **range42** is a modular cyber range platform based on Proxmox + Ansible for deploying reproducible offensive, defensive and hybrid training environments.
 One operator workstation can manage multiple Proxmox infrastructures each running multiple lab scenarios. Everything is infrastructure-as-code.
 
----
 
 ## Get started
 
