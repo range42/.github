@@ -53,5 +53,5 @@ Community health files: [.github/community](https://github.com/range42/.github/c
 | Benjamin Collas | DIGISQUAD | [DIGISQUAD](https://www.digisquad.com) |
 | Philippe Parage | NC3 | [NC3](https://nc3.lu/) |
 | Steve Clement | NC3 | [NC3](https://nc3.lu/) |
-| Alexis Danjon | NC3 | [NC3](https://nc3.lu/) |
+| [t0kubetsu (Alexis D.)](https://github.com/t0kubetsu) | NC3 | [NC3](https://nc3.lu/) |
 
