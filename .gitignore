@@ -1,0 +1,4 @@
+# Local sibling repos checked out inside this directory
+range42/
+range42-*/
+range42_*/
